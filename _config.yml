@@ -7,6 +7,7 @@ description: "柯大师的博客，记录生活、技术、读书"
 keyword: "柯大师, MasterKe, 博客, 个人网站, 互联网, Web开发"
 url: "https://blog.masterke.cn"
 baseurl: ""
+timezone: Asia/Shanghai
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -53,7 +54,7 @@ kramdown:
 # Duoshuo settings
 duoshuo_username: masterkeblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
