@@ -2,7 +2,7 @@
     "name": "masterke-blog",
     "title": "MasterKe Blog",
     "version": "1.0.0",
-    "homepage": "http://blog.masterke.cn",
+    "homepage": "https://blog.masterke.cn",
     "author": "MasterKe",
     "devDependencies": {
         "grunt": "~0.4.5",
