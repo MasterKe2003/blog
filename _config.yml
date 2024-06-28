@@ -12,8 +12,8 @@ baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username: masterke2023
-zhihu_username: masterke2023
+# weibo_username: masterke2023
+# zhihu_username: masterke2023
 github_username: MasterKe2003
 #twitter_username:  masterke
 #facebook_username:  masterke
