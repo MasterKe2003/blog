@@ -8,7 +8,7 @@ keyword: "柯大师, MasterKe, 博客, 个人网站, 互联网, Web开发"
 url: "https://blog.masterke.cn"
 baseurl: ""
 timezone: Asia/Shanghai
-
+plugins: [jekyll-paginate]
 # Publish posts or collection documents with a future date.
 future: true
 
