@@ -3,18 +3,18 @@ title: MasterKe's Blog
 SEOTitle: MasterKe | 柯大师
 header-img: img/home-bg.jpg
 email: masterke@icloud.com
-description: ""
-keyword: ""
-url: "https://blog.masterke.cn/"              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+description: "柯大师的博客，记录生活、技术、读书"
+keyword: "柯大师, MasterKe, 博客, 个人网站, 互联网, Web开发"
+url: "https://blog.masterke.cn/"
+baseurl: ""
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     masterke
-zhihu_username:     masterke
-github_username:    MasterKe2003
+weibo_username: masterke2023
+zhihu_username: masterke2023
+github_username: MasterKe2003
 #twitter_username:  masterke
 #facebook_username:  masterke
 
@@ -67,8 +67,8 @@ ga_domain: huangxuan.me
 
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "始终保持一颗好奇心，勇敢的去尝试新鲜的事物。试一试，说不定就成了呢。
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -82,19 +82,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "flexd",
+        href: "https://flexd1.github.io/"
     }
 ]
