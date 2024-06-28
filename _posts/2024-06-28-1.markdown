@@ -4,7 +4,7 @@ title:      "梦开始的地方"
 subtitle:   "怎么不迷茫呢"
 date:       2024-6-28 18:15:27
 author:     "MasterKe"
-header-img: ""
+header-img: "img/post-bg-js-version.jpg"
 tags:
     - 生活
 ---
