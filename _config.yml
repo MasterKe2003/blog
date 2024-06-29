@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "导航页：https://masterke.cn"
 sidebar-avatar: /img/logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
