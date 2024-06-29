@@ -1,5 +1,9 @@
-    始终保持一颗好奇心，勇敢的去尝试新鲜的事物。试一试，说不定就成了呢。
-    生活中的美好瞬间总是稍纵即逝，因此我们需要用心记录下每一个精彩瞬间，让它们成为我们回忆的一部分。
-    在这个喧嚣的世界里，我们常常忽略了身边那些细小而美好的瞬间。那些阳光洒在脸上的温暖、美食的香气弥漫在鼻尖、亲人朋友的微笑，都值得被记录下来。用相机、笔记本或社交媒体记录这些美丽的瞬间，让它们不再轻易消失。
-    文字是记录生活的一种有力工具。无论是通过写日记，记录每天的心情和经历，还是通过写信，表达对亲朋好友的思念和祝福，文字可以帮助我们将那些流逝的时刻定格在纸上。每一页都是我们生活的痕迹，也是回忆的见证。
-    珍惜并感恩生活中的每个瞬间是一种积极的生活态度。无论是喜悦还是挑战，每个经历都是我们成长的机会。通过记录生活，我们可以更加清晰地看到自己的成长和进步。培养感恩的心态，让我们更加开心、满足，并懂得珍惜眼前的一切。
+> "Always maintain a sense of curiosity and bravely try new things. Give it a shot, it might just work out.
+
+Beautiful moments in life are always fleeting, so we need to record every wonderful moment in our hearts, making them a part of our memories.
+
+In this bustling world, we often overlook those small and beautiful moments around us. The warmth of the sun on our faces, the aroma of delicious food lingering in our noses, the smiles of our families and friends, all deserve to be recorded. Use a camera, a notebook, or social media to capture these beautiful moments, preventing them from easily fading away.
+
+Text is a powerful tool for recording life. Whether it's through writing diaries, recording daily emotions and experiences, or through writing letters, expressing our longing and blessings for our families and friends, text can help us etch those fleeting moments onto paper. Every page is a trace of our lives, and a testament to our memories.
+
+To cherish and be grateful for every moment in life is a positive attitude towards life. Whether it's joy or challenge, every experience is an opportunity for us to grow. By recording life, we can see our growth and progress more clearly. Cultivating a grateful attitude makes us happier, more satisfied, and teaches us to cherish everything in front of us."
