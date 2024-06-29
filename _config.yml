@@ -14,10 +14,12 @@ future: true
 
 # SNS settings
 RSS: false
+url: https://masterke.cn
+resume: https://resume.masterke.cn
 weibo_username: masterke2003
 zhihu_username: xiao-ju-zi-68-77
 github_username: MasterKe2003
-email: masterke@icloud.com
+
 
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
