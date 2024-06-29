@@ -14,7 +14,7 @@ future: true
 
 # SNS settings
 RSS: false
-url: https://masterke.cn
+home_url: https://masterke.cn
 resume: https://resume.masterke.cn
 weibo_username: masterke2003
 zhihu_username: xiao-ju-zi-68-77
