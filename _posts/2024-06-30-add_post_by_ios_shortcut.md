@@ -4,7 +4,7 @@ title:      "优雅的新增一篇博客"
 subtitle:   "博主是使用的苹果手机，安卓一样的思路"
 date:       2024-06-29 23:13:00
 author:     "MasterKe"
-header-img: ""
+header-style: text
 tags:
     - 技术
 ---

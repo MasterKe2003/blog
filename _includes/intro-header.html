@@ -6,10 +6,6 @@
 {% if include.type == 'post' or include.type == 'page' %}
 <style type="text/css">
     header.intro-header{
-        height: 500px;
-        overflow: hidden;
-    }
-    header.intro-header{
         position: relative;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
         background: {{ page.header-bg-css }};
