@@ -1276,6 +1276,7 @@ samp {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
+text-align: right;
   font-family: 'Lora', 'Times New Roman', serif;
   color: #a3a3a3;
   font-size: 16px;
@@ -1305,6 +1306,7 @@ samp {
   }
 }
 .post-content-preview {
+padding-left: 20px;
   font-size: 13px;
   font-style: italic;
   color: #a3a3a3;
