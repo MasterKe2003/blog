@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Guan & Yang</title>
+	<!-- Modernizr -->
+	<script src="static/js/modernizr.js"></script>
+	<!-- Open Sans from Google Webfonts -->
+	<link href='static/css/css.css' rel='stylesheet' type='text/css'>
+	<!-- Main styles file -->
+	<link rel="stylesheet" href="static/css/styles.css">
+	<!-- Icons via Font Awesome -->
+	<link rel="stylesheet" href="static/css/font-awesome.min.css">
+</head>
+
+<body class="color-scheme-neue">
+	<!-- Animated background -->
+	<canvas id="bg-canvas"></canvas>
+	<div class="bg-img"
+		style="width: 100%; height: 100%; position: fixed; background: url(https://cdn.jsdelivr.net/gh/MasterKeee/picture/love.jpg) no-repeat center center; background-size: cover; ">
+	</div>
+	<!-- First screen -->
+	<div class="splash">
+		<div class="centered-unit">
+			<div class="container">
+				<!-- Main header -->
+				<h1>For Us！</h1>
+				<!-- Sub header -->
+				<p class="lead">真正对的人会出现在你的前程里。</p>
+
+				<!-- Countdown -->
+				<div class="countdown circled large">
+					<!-- Days -->
+					<div class="time days">
+						<div class="value">00</div>
+						<div class="unit">Days</div>
+					</div>
+					<!-- Hours -->
+					<div class="time hours">
+						<div class="value">00</div>
+						<div class="unit">Hours</div>
+					</div>
+					<!-- Minutes -->
+					<div class="time minutes">
+						<div class="value">00</div>
+						<div class="unit">Minutes</div>
+					</div>
+					<!-- Seconds -->
+					<div class="time seconds">
+						<div class="value">00</div>
+						<div class="unit">Seconds</div>
+					</div>
+				</div>
+				<!-- Countdown end -->
+			</div>
+		</div>
+	</div>
+
+	<!-- Second screen -->
+	<div class="overlap">
+
+		<!-- Link "Scroll down to learn more" -->
+		<a href="" class="more">下滑 <i class="fa fa-chevron-down"></i> 更多</a>
+
+		<!-- Detailed info -->
+		<div class="container few-words">
+			<div class="row">
+				<!-- First column -->
+				<div class="col col-heading">
+					<!-- Detailed info -->
+					<h2>我们的一些故事📚</h2><br>
+				</div>
+				<!-- First column end -->
+
+				<!-- Second column -->
+				<div class="col col-content">
+					<p>不要预设和别人共度一生，就自然的相处。命运把你们带到哪里，就到哪里。</p>
+					<p>天若有道，自不会让有情人分离。天若无道，就该遵循天命。</p>
+					<p>遇见是因为有债要还，离开是因为还清了。</p>
+					<p>前世不欠，今生不见。今生相见，定有亏欠。</p>
+					<p>============================================================</p>
+					<p>📅&nbsp;2020.10.25 - 你在《数学建模协会》群里喊我改备注，成为QQ好友 🤝<br></p>
+					<p>📅&nbsp;2020.11.06 - 你收到了我送的第一包大白兔奶糖，甜蜜邂逅开始啦 🍬<br></p>
+					<p>📅&nbsp;2020.11.17 - 我们第一次一起散步，在夜晚的校园里 🌃<br></p>
+					<p>📅&nbsp;2020.11.24 - 我们第一次牵手 👫<br></p>
+					<p>📅&nbsp;2020.11.28 - 故意把脸贴在你嘴边，你给了我第一个轻吻 💋<br></p>
+					<p>📅&nbsp;2020.11.29 - 第一次舌吻，一起看了部电影，看得不是很仔细，因为全程忙着亲亲。还得到了你的小皮筋作为纪念 😘🎬<br></p>
+					<p>📅&nbsp;2020.12.02 - QQ上显露了我们的情侣关系，你主动接受了我两天前的邀请 ❤️<br></p>
+					<p>📅&nbsp;2020.12.19 - 给你弄了个俏皮的草莓吻 🍓😗<br></p>
+					<p>📅&nbsp;2020.12.24 - 官宣我们的关系，并轻触了你那温暖的小肚子 📣🤗<br></p>
+					<p>📅&nbsp;2020.12.25 - 我们在一起的第一个圣诞节 🎄🎁<br></p>
+					<p>📅&nbsp;2021.01.01 - 新年里，我们一整天都在外面玩得很开心，还一起享用了美味的蛋糕 🍰🎉<br></p>
+					<p>📅&nbsp;2021.03.06 - 庆祝你的生日，我们共度了浪漫的一晚 🎂🎈<br></p>
+				</div>
+				<!-- Second column end -->
+
+
+			</div>
+		</div>
+		<!-- Detailed info block end -->
+
+
+
+
+		<!-- Footer -->
+		<div class="footer">
+			<div class="container" style="text-align: center;">
+				皖ICP备2024031200-1号
+			</div>
+		</div>
+		<!-- Footer end -->
+	</div>
+
+	<!-- JavaScripts -->
+
+	<script src="static/js/jquery.js"></script>
+	<script src="static/js/countdown.js"></script>
+	<script src="static/js/bezierCanvas.js"></script>
+	<script src="static/js/notifyMe.js"></script>
+
+	<script type="text/javascript">
+		$().ready(function () {
+
+			// Activate countdownTimer plugin on a '.countdown' element
+			$(".countdown").countdownTimer({
+				// Set the end date for the countdown
+				endTime: new Date("November 29, 2020 00:00:00 UTC+0800")
+			});
+
+
+			// Activate notifyMe plugin on a '#notifyMe' element	
+			$("#notifyMe").notifyMe();
+
+
+			// Activate bezierCanvas plugin on a #bg-canvas element
+			$("#bg-canvas").bezierCanvas({
+				maxStyles: 3,
+				maxLines: 80,
+				strokeWidth: 0.5,
+				lineSpacing: 0.07,
+				spacingVariation: 0.07,
+				colorBase: { r: 100, g: 120, b: 200 },
+				colorVariation: { r: 50, g: 50, b: 50 },
+				moveCenterX: 0,
+				moveCenterY: 0,
+				delayVariation: 4,
+				globalAlpha: 0.4,
+				globalSpeed: 200,
+			});
+
+			// Add handler on 'Scroll down to learn more' link
+			$().ready(function () {
+				$(".overlap .more").click(function (e) {
+					e.preventDefault();
+					$("body,html").animate({ scrollTop: $(window).height() });
+				});
+			});
+
+
+		});
+	</script>
+
+</body>
+
+</html>
