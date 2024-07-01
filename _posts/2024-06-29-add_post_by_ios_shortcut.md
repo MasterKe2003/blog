@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "「技术向」优雅的新增一篇博客"
+title:      "「技术」优雅的新增一篇博客"
 date:       2024-06-29
 author:     "MasterKe"
 header-style: text
