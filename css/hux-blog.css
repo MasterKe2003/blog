@@ -140,7 +140,8 @@
   Please note this CSS is currently in   prototype form. We'll implement a cleaned up version in Web Starter Kit.
 */
 .paper-snackbar {
-  transition-property: opacity, bottom, left, right, width, margin, border-radius;
+  transition-property: opacity, bottom, left, right, width, margin,
+    border-radius;
   transition-duration: 0.5s;
   transition-timing-function: ease;
   /*font-family: RobotoDraft;*/
@@ -656,7 +657,11 @@ body {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
   color: #404040;
@@ -683,7 +688,11 @@ h6 {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   line-height: 1.1;
   font-weight: bold;
@@ -911,7 +920,8 @@ samp {
     border: none;
     background: white;
     box-shadow: 0px 5px 10px 2px rgba(0, 0, 0, 0.2);
-    box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.239216) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px,
+      rgba(0, 0, 0, 0.239216) 0px 1px 4px;
     border-radius: 2px;
     width: 170px;
   }
@@ -945,7 +955,8 @@ samp {
     transition: transform 400ms cubic-bezier(0.32, 1, 0.23, 1) 0ms;
     -webkit-transform: scaleY(0);
     -webkit-transform-origin: top right;
-    -webkit-transition: -webkit-transform 400ms cubic-bezier(0.32, 1, 0.23, 1) 0ms;
+    -webkit-transition: -webkit-transform 400ms cubic-bezier(0.32, 1, 0.23, 1)
+      0ms;
   }
   #huxblog_navbar li {
     opacity: 0;
@@ -983,7 +994,11 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
 }
 .navbar-custom .navbar-brand {
@@ -1103,7 +1118,7 @@ samp {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color:#404040;
+  background-color: #404040;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1179,7 +1194,11 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 18px;
   line-height: 1.1;
@@ -1207,7 +1226,11 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 17px;
   line-height: 1.4;
@@ -1216,7 +1239,7 @@ samp {
   margin-top: -5px;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: "Lora", "Times New Roman", serif;
   font-style: italic;
   font-weight: 300;
   font-size: 16px;
@@ -1276,8 +1299,8 @@ samp {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-text-align: right;
-  font-family: 'Lora', 'Times New Roman', serif;
+  text-align: right;
+  font-family: "Lora", "Times New Roman", serif;
   color: #a3a3a3;
   font-size: 16px;
   font-style: italic;
@@ -1306,7 +1329,7 @@ text-align: right;
   }
 }
 .post-content-preview {
-padding-left: 20px;
+  padding-left: 20px;
   font-size: 13px;
   font-style: italic;
   color: #a3a3a3;
@@ -1359,7 +1382,11 @@ footer .copyright a:focus {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
   font-size: 14px;
@@ -1388,7 +1415,11 @@ footer .copyright a:focus {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
   font-size: 13px;
@@ -1522,7 +1553,8 @@ img::-moz-selection {
 }
 #tag_cloud a.focus,
 #tag_cloud .tag.focus {
-  box-shadow: rgba(0, 0, 0, 0.117647) 0 1px 6px, rgba(0, 0, 0, 0.239216) 0 1px 4px;
+  box-shadow: rgba(0, 0, 0, 0.117647) 0 1px 6px,
+    rgba(0, 0, 0, 0.239216) 0 1px 4px;
 }
 #tag_cloud a.tag-button--all,
 #tag_cloud .tag.tag-button--all {
@@ -1575,7 +1607,11 @@ img::-moz-selection {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial",
+    "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei",
+    "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC",
+    "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC",
+    "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
 }
 .mini-post-list .post-preview {
@@ -1695,31 +1731,4 @@ img::-moz-selection {
 }
 .no-scroll {
   overflow-y: hidden;
-}
-/*post on top*/
-
-.ontop-pushpin {
-  display: inline;
-  box-sizing: border-box;
-  border: 1px solid grey;
-  padding: .2rem .75rem .15rem .75rem;
-  margin-right: .5rem;
-  border-radius: .25em;
-  top: -2px;
-  font-size: 14px;
-}
-
-.ontop-title-group {
-  display: block;
-  font-size: 21px;
-  line-height: 1.3;
-  margin-top: 30px;
-  margin-bottom: 10px;
-}
-
-@media only screen and (min-width: 768px) {
-  .ontop-pushpin {
-    padding: 0.275rem 0.75rem 0.175rem 0.75rem;
-    top: -3px;
-  }
 }
