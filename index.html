@@ -10,12 +10,9 @@ header-mask: 0.3
 {% if post.onTop == true %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-    <div class="ontop-title-group">
-        <span class="ontop-pushpin glyphicon glyphicon-pushpin"></span>
-        <h2 class="ontop post-title" style="display: inline;">
+        <h2 class="post-title">
             {{ post.title }}
         </h2>
-    </div>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
