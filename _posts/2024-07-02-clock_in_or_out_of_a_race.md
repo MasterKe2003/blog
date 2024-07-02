@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「运动」跑步打卡"
+title: "「运动」7月2日跑步"
 date: 2024-07-02 22:21:25 +0800
 author: MasterKe
 header-style: text
