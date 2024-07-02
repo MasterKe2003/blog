@@ -13,4 +13,8 @@ tags:
 ![](https://masterke-picture.oss-cn-hangzhou.aliyuncs.com/2024/07/02/17198560248368.png)
 明天再更新一下这个项目的 readme 吧
 半夜的雨真的很大，很适合睡懒觉
-<video src="https://masterke-picture.oss-cn-hangzhou.aliyuncs.com/2024/07/02/IMG_0212.MOV"></video>
+
+<video width="100%" controls>
+  <source src="https://masterke-picture.oss-cn-hangzhou.aliyuncs.com/2024/07/02/IMG_0212.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
