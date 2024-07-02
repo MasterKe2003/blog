@@ -12,6 +12,12 @@ timezone: Asia/Shanghai
 # Publish posts or collection documents with a future date.
 future: true
 
+# defaults:
+
+layout: post
+author: "MasterKe"
+header-style: text
+
 # SNS settings
 RSS: false
 home_url: https://masterke.cn
