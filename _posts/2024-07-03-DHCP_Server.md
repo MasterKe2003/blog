@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「技术」半夜抄代码"
+title: "「技术」配置DHCP服务器"
 date: 2024-07-03 22:42:57 +0800
 author: MasterKe
 header-style: text
