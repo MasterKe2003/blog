@@ -25,6 +25,7 @@ ql update
 ```
 docker restart qinglong
 ```
+
 或者使用watchtower自动更新
 ```
 docker run --rm -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower -cR qinglong
