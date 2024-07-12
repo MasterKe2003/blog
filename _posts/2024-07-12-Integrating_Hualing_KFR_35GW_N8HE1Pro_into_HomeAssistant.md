@@ -43,7 +43,7 @@ github地址：https://github.com/georgezhao2010/midea_ac_lan
 
 1. 打开 Home Assistant 的配置菜单，找到“设备与服务”
 2. 点击设备与服务页面最上方的“集成”这一项，之后点击集成页面右下角的“添加集成”，搜索“Midea AC LAN”
-3. 之后点击查找出来的 Midea AC LAN 组件，会问你选择什么模式，一般的话选择 Auto 自动模式添加就可以了,我是在自动模式下遇到了一些问题，后来选择手动添加的，可以使用msmart-ngmidea-discover的命令获取设备信息：
+3. 之后点击查找出来的 Midea AC LAN 组件，会问你选择什么模式，一般的话选择 Auto 自动模式添加就可以了,我是在自动模式下遇到了一些问题，后来在[midea-ac-py](https://github.com/mill1000/midea-ac-py?tab=readme-ov-file#getting-device-info)这个项目中找到一个获取参数的办法，然后选择手动添加的，可以使用msmart-ngmidea-discover的命令获取设备信息：
 
 ```
 pip install msmart-ng
