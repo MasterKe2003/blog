@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「HomeAssistant」华凌KFR-35GW/N8HE1Pro接入homeassistant"
+title: "「HomeAssistant」华凌空调接入HA"
 date: 2024-07-12 13:25:23 +0800
 author: 柯大师
 header-style: text
