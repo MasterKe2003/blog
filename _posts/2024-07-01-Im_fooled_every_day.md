@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「生活」每天上一当"
+title: "每天上一当 当当不一样"
 date: 2024-07-01 09:00:00 +0800
 author: MasterKe
 header-style: text

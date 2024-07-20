@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「技术」青龙面板打不开的解决方案"
+title: "青龙面板打不开的解决方案"
 date: 2024-07-05 14:15:46 +0800
 author: MasterKe
 header-style: text

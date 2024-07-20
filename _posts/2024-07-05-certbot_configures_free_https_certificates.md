@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「技术」certbot配置免费https证书"
+title: "certbot配置免费https证书"
 date: 2024-07-05 18:28:28 +0800
 author: MasterKe
 header-style: text

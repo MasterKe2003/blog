@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「学习」半夜抄代码"
+title: "半夜抄代码"
 date: 2024-07-02 01:44:00 +0800
 author: MasterKe
 header-style: text

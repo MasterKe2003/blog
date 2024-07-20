@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「治愈」你究竟要不要考研？"
+title: "你究竟要不要考研？"
 date: 2024-07-15 20:05:00 +0800
 author: 柯大师
 header-style: text

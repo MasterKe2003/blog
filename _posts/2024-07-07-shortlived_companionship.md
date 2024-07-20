@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「与她」短暂的陪伴"
+title: "短暂的陪伴"
 date: 2024-07-07 18:45:57 +0800
 author: 柯大师
 header-style: text

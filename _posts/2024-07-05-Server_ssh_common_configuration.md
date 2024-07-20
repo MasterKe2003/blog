@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「技术」服务器ssh常用配置"
+title: "服务器ssh常用配置"
 date: 2024-07-05 16:38:07 +0800
 author: MasterKe
 header-style: text

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「与她」什么是真爱？"
+title: "什么是真爱？"
 date: 2024-07-13 10:37:47 +0800
 author: 柯大师
 header-style: text
