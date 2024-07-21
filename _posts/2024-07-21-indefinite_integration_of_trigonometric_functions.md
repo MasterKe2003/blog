@@ -10,5 +10,32 @@ tags:
     - 三角函数
     - 不定积分
 ---
+# secx
+## secx
 
-一次函数
+$$
+\int {secx} dx = \ln(secx+tanx) + C
+$$
+
+## sec^2x
+
+$$
+\int {sec^2x} dx = tanx  + C 
+$$
+
+## sec^3x
+
+![](https://masterke-picture.oss-cn-hangzhou.aliyuncs.com/2024%2F07%2F21%2F1721547150.png)
+
+## sec^4x
+
+![](https://masterke-picture.oss-cn-hangzhou.aliyuncs.com/2024%2F07%2F21%2F1721547373.png)
+
+# tanx
+
+## tanx
+
+$$
+\int {tanx} dx = - \ln(cosx) + C
+$$
+
